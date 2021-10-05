@@ -11,4 +11,4 @@ These version numbers may change. Your mileage may vary but this code was develo
 # Configuration
 All configuration is done via editing [config.h](https://github.com/jasongaunt/Sakey-Button-Box/blob/main/config.h) - here is the button layout;
 
-![Button layout](/Button-Layout.png)
+![Button layout](/Button-Layout.png?raw=true)
